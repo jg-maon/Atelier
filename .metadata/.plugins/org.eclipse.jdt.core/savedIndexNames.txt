@@ -1,0 +1,3 @@
+INDEX VERSION 1.126+D:\13CI0236\ese\EseGame\.metadata\.plugins\org.eclipse.jdt.core
+4039064728.index
+1954839672.index

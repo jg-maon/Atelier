@@ -1,0 +1,2 @@
+eclipse.preferences.version=1
+environment/workspace=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<environment append\="true" appendContributed\="true">\r\n<variable delimiter\=";" name\="NDK_ROOT" operation\="append" value\="D\:\\Android\\android-ndk-r9d"/>\r\n</environment>\r\n

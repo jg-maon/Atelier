@@ -242,3 +242,4 @@ Temporary Items
 /3_backup.bat.lnk
 *.lnk
 /working
+/proj.android/libs/armeabi
